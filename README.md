@@ -27,7 +27,7 @@ Now we create a new file named orders_category.csv
 
 ## Initials Step to create Predict Model
 
-* We Import file csv to a new Notebook file named TimeSeriesModel.py
+* We Import file csv to a new Notebook file named TimeSeriesModel.ipynb
 * Now we determine best selling category into sales channel 1
 
 ![image](https://user-images.githubusercontent.com/29828029/204366832-c057e995-adf5-4887-90bd-fb63d5b837ba.png)
